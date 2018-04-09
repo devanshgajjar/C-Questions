@@ -1,2 +1,3 @@
 # C-Questions
-C programs' solution (Navarachna University)
+
+Solutions to questions as per the website.
